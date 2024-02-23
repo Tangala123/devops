@@ -2,5 +2,3 @@ Hari
 trainer
 AWS
 Devops
-Lakshmi
-AWS & DevOps Engineer
